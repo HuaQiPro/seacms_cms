@@ -1,3 +1,13 @@
+# 通知
+
+由于最近有黑产盯着海洋CMS 苹果CMS 去攻击。海洋CMS和苹果CMS的官网域名已经全部被盗。
+
+海洋CMS 最新官网: HTTPS://WWW.SEACMS.COM 
+
+Recently, a black product is staring at the ocean CMS Apple CMS to attack. The official website domain names of Ocean CMS and Apple CMS have all been stolen.
+
+The latest official website of Ocean CMS: HTTPS://WWW.SEACMS.COM
+
 # 免责声明
 
 本程序仅供内部学习和交流使用，没有内置任何数据，请在遵守当地法律的前提下使用本站程序，对用户在使用过程中的自行维护的信息内容本站不负任何责任！
